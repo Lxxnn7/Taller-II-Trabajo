@@ -1,0 +1,5 @@
+reviews_raw.json
+data/dataset.csv
+data/raw/
+.venv/
+__pycache__/
