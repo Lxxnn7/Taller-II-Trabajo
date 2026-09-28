@@ -1,6 +1,6 @@
 # MODELO DE ANÁLISIS DE SENTIMIENTO
 
-## Integrantes: Brisa Medina, Jesús Gimenez, Leandro Levi
+## Integrantes: Milagros Morán, Brisa Medina, Jesús Giménez, Leandro Levi
 
 ## PRIMERA PARTE - CARGA Y LIMPIEZA DEL DATASET
 
